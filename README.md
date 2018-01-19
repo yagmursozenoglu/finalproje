@@ -18,4 +18,4 @@ Khalish Luthfi
 proje adı:Futbol Dünya Kupası Defans Verileri
 
 Veri kümesi üzerinde görselleştirme uygulanmıştır ve Dünya kupası maçlarında yapılan defans ve atak sayılarına göre kazanma oranları açıklanmıştır. Normalde birkaç türde veriyi bir araya toplamak zor olmasına karşın veri görselleştirme sayesinde yüzlerce datayı tek seferde gösterebiliyoruz.
-Buna göre Dünya çapında defans ve atak sayılarına göre ve maçların başarıyla ya da başarısızlıkla sonuçlanma oranları incelenmiştir.
+Buna göre Dünya çapında defans ve atak sayılarına göre ve maçların başarıyla ya da başarısızlıkla sonuçlanma oranları incelenmiştir.      
